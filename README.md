@@ -1,3 +1,3 @@
 Olá,mundo!
-Primeiro repositório do curso de Git e GitHub
+Primeiro reposito  do curso de Git e GitHub
 
